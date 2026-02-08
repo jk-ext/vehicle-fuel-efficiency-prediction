@@ -23,3 +23,11 @@ Auto MPG dataset containing features such as cylinders, displacement, horsepower
 
 ## Outcome
 The project helped identify key factors influencing fuel efficiency and demonstrated how machine learning can be applied to real-world automotive data.
+
+## Results Visualization
+
+### Correlation Analysis
+![Correlation Matrix](correlation_matrix.png)
+
+### Prediction Results
+![Predicted vs Actual](predictions_vs_actual.png)
